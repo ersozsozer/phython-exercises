@@ -1,0 +1,5 @@
+#input exercise
+
+print("adinizi giriniz:")
+x=input()
+print(x[0:1])
