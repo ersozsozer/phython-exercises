@@ -1,4 +1,4 @@
 #input exercise
 
-print("adýnýzý giriniz:")
+print("adinizi giriniz:")
 x=input()
